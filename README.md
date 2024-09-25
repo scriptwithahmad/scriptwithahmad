@@ -1,11 +1,12 @@
-<h2 align="left">Hi 👋! My name is Muhammad Ahmad and I'm a Developer</h2>
+<!-- Other generator -->
+<h2 align="left">Hi 👋! My name is Muhammad Ahmad <br /> a passionate Full Stack Developer from Pakistan 😎</h2>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=scriptwithahmad&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Usman-Ashfi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-<img align="right" height="125" src="https://i.pinimg.com/originals/a5/f0/b8/a5f0b8d12b7b58e8f82a84e9dc77e2ee.gif"  />
+## 👨‍💻 Technologies:
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -27,11 +28,18 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
 </div>
 
+
+
+
+## 🌐 Socials:
+
+<img align="right" height="125" src="https://i.pinimg.com/originals/a5/f0/b8/a5f0b8d12b7b58e8f82a84e9dc77e2ee.gif"  />
+
 <div align="left">
   <a href="https://www.instagram.com/scriptwithahmad/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/muhammad-ahmad" target="_blank">
+  <a href="https://www.linkedin.com/in/muhammad-ahmad-6b4303264" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
@@ -40,15 +48,7 @@
 
 [![](https://visitcount.itsvg.in/api?id=scriptwithahmad&icon=3&color=0)](https://visitcount.itsvg.in)
 
-<!-- Other generator -->
-<h1 align="center">Hi 👋, I'm Muhammad Ahmad</h1>
-<h3 align="center">A passionate Full Stack Developer from Pakistan 😎</h3>
-
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=scriptwithahmad&label=Profile%20views&color=0e75b6&style=flat" alt="scriptwithahmad" /> </p> -->
-
-<!-- profile views -->
-
-[![](https://visitcount.itsvg.in/api?id=scriptwithahmad&icon=3&color=0)](https://visitcount.itsvg.in)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=scriptwithahmad" alt="scriptwithahmad" /></a> </p>
 
@@ -117,10 +117,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=scriptwithahmad&" alt="scriptwithahmad" /></p> -->
 
 <!-- Third one -->
-
-## 🌐 Socials:
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ahmad_tech_info) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Muhammad Ahmad)
 
 # 💻 Tech Stack:
 
